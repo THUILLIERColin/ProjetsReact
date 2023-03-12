@@ -4,13 +4,17 @@
 
 Dans ce repository, vous trouverez les projets React que j'ai réalisé en suivant des cours sur [Youtube](https://www.youtube.com/watch?v=SMgQlTSoXf0&list=PLjwdMgw5TTLWom67YfZuha-1iYzIirwJR).
 
+## Prérequis
+
+Il vous faudra un serveur web (Apache, Nginx, etc.). Pour ce projet, j'ai utilisé MAMP.
+
 ## Installation
 
-Pour pouvoir lancer les projets, il vous faudra un serveur local. Pour ma part, j'utilise MAMP.
-
-## Utilisation
-
-Pour lancer les projets, il vous suffit mettre les dossier du git dans le dossier `htdocs` de MAMP. Ensuite, il vous suffit de lancer le serveur local et de vous rendre sur l'adresse suivante : `http://localhost:8888/` et de choisir le projet que vous souhaitez lancer.
+1. Télécharger le projet
+2. Mettre le projet dans le dossier racine (ici htdocs) de votre serveur web
+3. Démarrer le serveur
+4. Aller sur votre navigateur et taper l'adresse suivante : <http://localhost/>
+5. Ensuite, vous n'avez plus qu'à suivre les liens pour vous rendre sur le répertoire du projet souhaité
 
 ## Auteur
 
